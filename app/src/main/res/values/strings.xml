@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LeccionUI</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Juego">Elige los alimentos saludables</string>
+    <string name="Elemento1">Manzana</string>
+    <string name="Elemento2">Durazno</string>
+    <string name="Elemento3">Naranja</string>
+    <string name="Elemento4">Cola</string>
+    <string name="Final">Has elegido </string>
+    <string name="FinalJ">Alimentos saludables</string>
+</resources>

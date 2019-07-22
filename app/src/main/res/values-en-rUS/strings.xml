@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestUI</string>
+    <string name="Nombre">Name</string>
+    <string name="Apellido">Last name</string>
+    <string name="Juego">Choose healthy foods</string>
+    <string name="Elemento1">Apple</string>
+    <string name="Elemento2">Peach</string>
+    <string name="Elemento3">Orange</string>
+    <string name="Elemento4">Soda</string>
+    <string name="Final">You have chosen </string>
+    <string name="FinalJ">Healthy foods</string>
+</resources>
